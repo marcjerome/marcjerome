@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- I'm Jerome! I'm currently creating apps with Django for the server-side and Flutter for mobile :smiley:
+- <b>Blockchain Dev</b>
+
 
 <!--
 **marcjerome/marcjerome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
