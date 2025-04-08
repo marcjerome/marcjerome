@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- <b>Blockchain Dev</b>
+- <b>Backend Dev | Blockchain Dev | Python |  | Vyper | Move </b>
 
 
 <!--
